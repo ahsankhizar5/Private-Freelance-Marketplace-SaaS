@@ -6,7 +6,7 @@
 
 ### Contact Information
 - **GitHub**: [@ahsankhizar5](https://github.com/ahsankhizar5)
-- **LinkedIn**: [Ahsan Khizar](https://linkedin.com/in/ahsankhizar5)
+- **LinkedIn**: [Ahsan Khizar](https://www.linkedin.com/in/ahsankhizar)
 - **Email**: Available on GitHub profile
 
 ### Project Overview
@@ -58,7 +58,7 @@ This comprehensive SaaS freelancing marketplace platform was designed and develo
 
 ---
 
-**© 2024 Ahsan Khizar. All rights reserved.**
+**© 2025 Ahsan Khizar. All rights reserved.**
 
 *"Building the future of freelance marketplaces with cutting-edge technology and exceptional user experience."* - Ahsan Khizar
 

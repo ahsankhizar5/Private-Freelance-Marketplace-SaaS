@@ -251,7 +251,7 @@ erDiagram
 *Full-Stack SaaS Architect & Innovation Engineer*
 
 [![GitHub](https://img.shields.io/badge/GitHub-ahsankhizar5-181717?style=for-the-badge&logo=github)](https://github.com/ahsankhizar5)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ahsankhizar5)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahsankhizar)
 
 </div>
 
@@ -317,7 +317,7 @@ git push origin feature/amazing-feature
 |------|---------------|
 | 🐛 **Bug Reports** | [GitHub Issues](https://github.com/ahsankhizar5/Private-Freelance-Marketplace-SaaS/issues) |
 | 💡 **Feature Requests** | [GitHub Discussions](https://github.com/ahsankhizar5/Private-Freelance-Marketplace-SaaS/discussions) |
-| 🤝 **Professional Inquiries** | [LinkedIn DM](https://linkedin.com/in/ahsankhizar5) |
+| 🤝 **Professional Inquiries** | [LinkedIn DM](https://www.linkedin.com/in/ahsankhizar) |
 | 📧 **Direct Contact** | Available on GitHub Profile |
 
 </div>
@@ -325,7 +325,7 @@ git push origin feature/amazing-feature
 ## 📜 **License & Rights**
 
 ```
-Copyright © 2024 Ahsan Khizar. All Rights Reserved.
+Copyright © 2025 Ahsan Khizar. All Rights Reserved.
 
 This project is proprietary and confidential.
 Unauthorized copying, distribution, or use is strictly prohibited.

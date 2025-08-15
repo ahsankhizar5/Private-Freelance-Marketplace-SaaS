@@ -29,7 +29,7 @@ export default async function SubscriptionPage() {
   const subscription = {
     plan: "Professional",
     status: "active",
-    nextBilling: "2024-02-15",
+    nextBilling: "2025-08-15",
     amount: 29,
     features: {
       projectApplications: { used: 15, limit: -1 }, // -1 means unlimited

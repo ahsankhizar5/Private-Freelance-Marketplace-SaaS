@@ -82,7 +82,7 @@ export function Footer() {
         </div>
 
         <div className="border-t border-border mt-8 pt-8 text-center space-y-2">
-          <p className="text-muted-foreground text-sm">© 2024 FreelanceHub. All rights reserved.</p>
+          <p className="text-muted-foreground text-sm">© 2025 FreelanceHub. All rights reserved.</p>
           <p className="text-muted-foreground text-xs">
             Developed with ❤️ by{" "}
             <a 

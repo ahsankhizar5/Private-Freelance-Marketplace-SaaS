@@ -93,7 +93,7 @@ export default async function CommunityPage() {
     {
       id: 1,
       title: "Freelancer Networking Meetup",
-      date: "2024-02-20",
+      date: "2025-08-10",
       time: "6:00 PM EST",
       attendees: 45,
       type: "Virtual",
@@ -101,7 +101,7 @@ export default async function CommunityPage() {
     {
       id: 2,
       title: "Web Development Workshop",
-      date: "2024-02-25",
+      date: "2025-08-12",
       time: "2:00 PM EST",
       attendees: 78,
       type: "Online",
