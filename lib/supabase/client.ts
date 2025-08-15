@@ -4,8 +4,10 @@ import { createClientComponentClient } from "@supabase/auth-helpers-nextjs"
 export const isSupabaseConfigured =
   typeof process.env.NEXT_PUBLIC_SUPABASE_URL === "string" &&
   process.env.NEXT_PUBLIC_SUPABASE_URL.length > 0 &&
+  process.env.NEXT_PUBLIC_SUPABASE_URL !== "your_supabase_project_url_here" &&
   typeof process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY === "string" &&
-  process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY.length > 0
+  process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY.length > 0 &&
+  process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY !== "your_supabase_anon_key_here"
 
 // Create a singleton instance of the Supabase client for Client Components
 export const supabase = createClientComponentClient()
