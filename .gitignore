@@ -137,6 +137,21 @@ temp/
 TODO.txt
 NOTES.md
 
+# SEO and Marketing files (not needed for development)
+SEO-STRATEGY.md
+MARKETING.md
+PROMOTION.md
+
+# GitHub specific files (not needed for running the code)
+.github/
+CONTRIBUTING.md
+CODE_OF_CONDUCT.md
+
+# Documentation that's not essential for setup
+CREDITS.md
+CHANGELOG.md
+FEATURES.md
+
 # Generated documentation (if auto-generated)
 /docs/build/
 

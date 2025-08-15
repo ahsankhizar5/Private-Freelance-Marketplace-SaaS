@@ -13,24 +13,12 @@ import { PricingPreview } from "@/components/landing/pricing-preview"
 import { CTASection } from "@/components/landing/cta-section"
 import { Header } from "@/components/landing/header"
 import { Footer } from "@/components/landing/footer"
-import { generateWebApplicationSchema, generateOrganizationSchema } from "@/lib/structured-data"
 
 export default async function HomePage() {
-  const webAppSchema = generateWebApplicationSchema()
-  const orgSchema = generateOrganizationSchema()
-
   // If Supabase is not configured, show the landing page in demo mode
   if (!isSupabaseConfigured) {
     return (
       <div className="min-h-screen bg-background">
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(webAppSchema) }}
-        />
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(orgSchema) }}
-        />
         <Header />
         <main>
           <HeroSection />
@@ -63,14 +51,6 @@ export default async function HomePage() {
 
   return (
     <div className="min-h-screen bg-background">
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(webAppSchema) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(orgSchema) }}
-      />
       <Header />
       <main>
         <HeroSection />
