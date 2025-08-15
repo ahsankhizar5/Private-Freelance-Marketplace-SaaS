@@ -1,7 +1,9 @@
 {
-  "name": "my-v0-project",
+  "name": "freelancehub-marketplace",
   "version": "0.1.0",
   "private": true,
+  "author": "Ahsan Khizar",
+  "description": "A comprehensive SaaS freelancing marketplace platform by Ahsan Khizar",
   "scripts": {
     "build": "next build",
     "dev": "next dev",

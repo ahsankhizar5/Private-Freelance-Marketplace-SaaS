@@ -1,6 +1,11 @@
 # FreelanceHub - SaaS Freelancing Marketplace
 
+**Developed by Ahsan Khizar** 🚀
+
 A comprehensive SaaS freelancing marketplace platform built with Next.js, Supabase, and modern web technologies. This platform connects businesses with freelancers in a private community environment.
+
+**Developer**: Ahsan Khizar  
+**Contact**: [GitHub](https://github.com/ahsankhizar5)
 
 ## Features
 
@@ -184,6 +189,26 @@ For support and questions:
 
 This project is private and proprietary. All rights reserved.
 
+## Developer Credits
+
+**🚀 Developed by Ahsan Khizar**
+
+- **GitHub**: [ahsankhizar5](https://github.com/ahsankhizar5)
+- **LinkedIn**: [Connect with Ahsan](https://linkedin.com/in/ahsankhizar5)
+- **Portfolio**: Specializing in Full-Stack SaaS Development
+
+### About the Developer
+Ahsan Khizar is a passionate full-stack developer specializing in modern web technologies including Next.js, React, Supabase, and TypeScript. This FreelanceHub marketplace platform showcases expertise in:
+
+- ⚡ Next.js 14 with App Router
+- 🔐 Supabase Authentication & Database
+- 🎨 Modern UI/UX with Tailwind CSS
+- 📊 Real-time Analytics & Dashboards
+- 💳 Subscription & Payment Systems
+- 🔄 Complex Business Logic Implementation
+
 ---
 
-Built with ❤️ using Next.js, Supabase, and modern web technologies.
+Built with ❤️ by **Ahsan Khizar** using Next.js, Supabase, and modern web technologies.
+
+*"Transforming ideas into scalable SaaS solutions"* - Ahsan Khizar

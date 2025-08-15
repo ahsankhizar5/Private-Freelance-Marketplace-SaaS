@@ -1,12 +1,21 @@
+/*
+ * FreelanceHub - SaaS Freelancing Marketplace
+ * Developed by: Ahsan Khizar
+ * GitHub: https://github.com/ahsankhizar5
+ * A comprehensive platform connecting businesses with freelancers
+ */
+
 import type { Metadata } from 'next'
 import { GeistSans } from 'geist/font/sans'
 import { GeistMono } from 'geist/font/mono'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
-  generator: 'v0.app',
+  title: 'FreelanceHub - SaaS Freelancing Marketplace',
+  description: 'Professional freelancing marketplace platform developed by Ahsan Khizar',
+  generator: 'Ahsan Khizar',
+  creator: 'Ahsan Khizar',
+  authors: [{ name: 'Ahsan Khizar', url: 'https://github.com/ahsankhizar5' }],
 }
 
 export default function RootLayout({

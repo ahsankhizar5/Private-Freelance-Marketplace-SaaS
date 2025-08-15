@@ -1,3 +1,9 @@
+/*
+ * FreelanceHub Landing Page
+ * Developed by: Ahsan Khizar
+ * GitHub: https://github.com/ahsankhizar5
+ */
+
 import { createClient, isSupabaseConfigured } from "@/lib/supabase/server"
 import { redirect } from "next/navigation"
 import { HeroSection } from "@/components/landing/hero-section"

@@ -81,8 +81,19 @@ export function Footer() {
           </div>
         </div>
 
-        <div className="border-t border-border mt-8 pt-8 text-center">
+        <div className="border-t border-border mt-8 pt-8 text-center space-y-2">
           <p className="text-muted-foreground text-sm">© 2024 FreelanceHub. All rights reserved.</p>
+          <p className="text-muted-foreground text-xs">
+            Developed with ❤️ by{" "}
+            <a 
+              href="https://github.com/ahsankhizar5" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="text-primary hover:text-primary/80 font-medium transition-colors"
+            >
+              Ahsan Khizar
+            </a>
+          </p>
         </div>
       </div>
     </footer>

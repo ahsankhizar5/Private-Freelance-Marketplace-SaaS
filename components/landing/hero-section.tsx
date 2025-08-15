@@ -1,3 +1,9 @@
+/*
+ * Hero Section Component - FreelanceHub
+ * Developed by: Ahsan Khizar
+ * Part of the FreelanceHub SaaS Marketplace Platform
+ */
+
 import Link from "next/link"
 import { Button } from "@/components/ui/button"
 import { Badge } from "@/components/ui/badge"
